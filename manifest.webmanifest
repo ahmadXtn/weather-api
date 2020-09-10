@@ -1,0 +1,18 @@
+{
+  "name": "Weather Forecast",
+  "short_name": "gads app",
+  "start_url": "/index.html",
+  "description":"Weather Forecast app",
+  "icons": [
+    {
+      "src": "assets/img/weather-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+       "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#75bfbf",
+  "background_color": "#2f4f4f",
+  "display": "standalone",
+  "scope": "/"
+}
